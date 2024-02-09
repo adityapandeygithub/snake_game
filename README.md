@@ -41,4 +41,4 @@ The rest of the code is properly commented and self explanatory. Tweaks can be m
 
 ## Acknowledgements
 * [Pygame Documentations](https://www.pygame.org/docs/)
-* [Udemy: Python Game Development](https://www.udemy.com/python-game-development-creating-a-snake-game-from-scratch/learn/v4/overview)
+
